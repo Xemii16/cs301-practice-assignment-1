@@ -1,0 +1,41 @@
+id,company_name,contact_name,contact_email,phone,city,country,lead_time_days,is_active,created_at
+1,TechVault Distribution Inc.,雅茹 Tong,.tong@techvaultdistribut.com,+1 404 662 4672,Winston Salem,Taiwan,19,1,2019-04-03T12:54:37.818Z
+2,Premier Electronics Wholesale,Liang Xue,liang.xue@premierelectronics.com,+86 432 662 9818,Alxa Right Banner,China,4,1,2021-07-23T21:54:41.730Z
+3,Nexus Supply Group,Qing Yin,qing.yin@nexussupplygroup.com,+86 168 524 9393,Zhidan County,China,46,1,2019-05-06T13:48:03.801Z
+4,Global Connectivity Partners,Aaron Freeman,aaron.freeman@globalconnectivity.com,+1 413 368 2871,Kansas City,US,6,1,2020-07-17T18:37:43.602Z
+5,Arrow Tech Solutions,Yifan Zhao,yifan.zhao@arrowtechsolutions.com,+86 420 179 2432,Duchang County,China,41,1,2019-03-31T02:26:38.738Z
+6,Synertech Distributors,佳慧 Jia,.jia@synertechdistribut.com,+1 917 265 4565,Irvine,Taiwan,6,1,2020-09-23T07:40:21.856Z
+7,CoreLogic Electronics,Jia Luo,jia.luo@corelogicelectroni.com,+86 484 788 4547,Lengshuijiang,China,31,1,2020-10-05T01:01:26.948Z
+8,Insight Technology Partners,Cui Guo,cui.guo@insighttechnologyp.com,+86 822 006 7441,You County,China,36,1,2021-06-05T02:37:54.703Z
+9,Vertex Wholesale Systems,Christian Shaw,christian.shaw@vertexwholesalesys.com,+1 412 848 4260,El Paso,US,25,1,2019-12-31T12:04:53.502Z
+10,Unified Digital Commerce,Paisley Graham,paisley.graham@unifieddigitalcomm.com,+1 334 930 6166,Raleigh,US,32,1,2020-06-24T18:55:54.021Z
+11,Pinnacle Vendor Network,Jayden Richardson,jayden.richardson@pinnaclevendornetw.com,+1 520 542 8074,New York City,US,31,1,2020-03-31T13:42:50.516Z
+12,RapidSupply Electronics Group,Seung-kwan Lim,seungkwan.lim@rapidsupplyelectro.com,+82 057 780 8931,강동구,South Korea,9,1,2022-01-03T07:42:35.127Z
+13,Innovation Source Distributors,Ziqi Liu,ziqi.liu@innovationsourcedi.com,+86 250 415 0153,Aohan Banner,China,33,1,2020-03-13T12:39:36.295Z
+14,Catalyst Trade Solutions,Kyle Ross,kyle.ross@catalysttradesolut.com,+1 361 477 3515,London,US,38,1,2022-05-03T01:53:11.137Z
+15,Harmony Electronics Supply,Yoo-jin Sagong,yoojin.sagong@harmonyelectronics.com,+82 557 491 9217,중랑구,South Korea,33,0,2019-10-31T18:21:38.025Z
+16,Caliber Distribution Network,詩穎 Song,.song@caliberdistributio.com,+1 510 376 6013,Baton Rouge,Taiwan,26,1,2020-12-28T16:39:31.512Z
+17,Momentum Tech Logistics,Else Klein,else.klein@momentumtechlogist.com,+49 096 744 3869,Niederscheidweiler,Germany,15,1,2021-03-20T11:01:02.304Z
+18,Flagship Wholesale Partners,Ran Ueda,ran.ueda@flagshipwholesalep.com,+81 910 145 0340,Nakasakamonta,Japan,45,1,2022-02-18T21:38:21.044Z
+19,Spectra Electronics Distribution,Yuan Cheng,yuan.cheng@spectraelectronics.com,+1 915 674 9768,Naples,Taiwan,5,1,2020-08-07T04:13:26.676Z
+20,Quantum Commerce Supply,Cassie Pena,cassie.pena@quantumcommercesup.com,+1 302 948 7159,Irvine,US,28,1,2020-05-29T13:02:09.997Z
+21,Apex Retail Sourcing,Jackson Hernandez,jackson.hernandez@apexretailsourcing.com,+1 267 460 4792,Brooklyn,US,30,1,2021-06-25T23:30:52.531Z
+22,Precision Connect Wholesale,Sung Shi,sung.shi@precisionconnectwh.com,+1 317 576 9786,Rochester,Taiwan,25,1,2020-10-27T06:46:34.422Z
+23,Titan Digital Supply Chain,Hua Yang,hua.yang@titandigitalsupply.com,+86 247 263 9444,Muling,China,28,1,2020-09-15T20:15:52.559Z
+24,Aurora Technology Group,Melanie Hill,melanie.hill@auroratechnologygr.com,+1 540 202 1640,Jacksonville,US,9,0,2019-05-07T10:39:11.502Z
+25,Consolidated Tech Distributors,Alma Haas,alma.haas@consolidatedtechdi.com,+49 189 239 8280,Köln,Germany,44,0,2021-01-30T06:19:09.192Z
+26,Vanguard Electronics Distribution,Madison Flores,madison.flores@vanguardelectronic.com,+1 864 542 2345,Bloomington,US,26,1,2021-04-27T15:21:40.544Z
+27,Silverline Tech Wholesale,Jiang Hu,jiang.hu@silverlinetechwhol.com,+86 245 236 3611,Fengxian District,China,23,1,2021-09-08T14:35:59.879Z
+28,Protech Supply Partners,Gianna Santiago,gianna.santiago@protechsupplypartn.com,+1 775 318 2552,Shawnee Mission,US,10,1,2019-01-02T14:32:41.411Z
+29,Omni-Source Logistics,Griffin Boyd,griffin.boyd@omnisourcelogistic.com,+1 214 847 1582,Lake Charles,US,22,1,2022-02-17T11:44:48.284Z
+30,Brightwave Distributor Network,Beckett Cruz,beckett.cruz@brightwavedistribu.com,+1 212 568 5841,San Diego,US,23,1,2019-03-09T01:44:46.073Z
+31,Direct Channel Electronics,Ki-bum Huh,kibum.huh@directchannelelect.com,+82 024 695 3180,서구,South Korea,3,0,2021-03-09T21:25:05.030Z
+32,Fortis Wholesale Solutions,Shan Duan,shan.duan@fortiswholesalesol.com,+86 502 201 8403,Jintang County,China,46,0,2019-11-29T19:11:11.698Z
+33,Nexgen Retail Supply,怡玟 Zhang,.zhang@nexgenretailsupply.com,+1 404 968 7421,Durham,Taiwan,28,1,2022-01-15T12:50:43.382Z
+34,Zenith Commerce Group,Eun-byul Heo,eunbyul.heo@zenithcommercegrou.com,+82 857 897 5411,창원시 의창구,South Korea,34,1,2020-07-27T17:30:07.701Z
+35,CrossLink Electronics Distribution,Gerald Fox,gerald.fox@crosslinkelectroni.com,+1 212 467 6946,Tacoma,US,16,1,2019-10-13T22:50:11.879Z
+36,Threshold Technology Supplies,So-young Han,soyoung.han@thresholdtechnolog.com,+82 125 297 8859,동구,South Korea,9,1,2021-08-09T15:23:14.992Z
+37,Pathfinder Vendor Solutions,Barbara Hayes,barbara.hayes@pathfindervendorso.com,+1 754 595 7116,Asheville,US,46,1,2022-03-03T11:58:19.018Z
+38,SyncPoint Distribution,Nolan Dunn,nolan.dunn@syncpointdistribut.com,+1 509 765 1322,Wilkes Barre,US,36,1,2019-12-30T06:22:19.656Z
+39,Elevation Electronics Wholesale,Emery Ferguson,emery.ferguson@elevationelectroni.com,+1 210 800 1618,Roanoke,US,30,1,2019-04-15T01:19:32.247Z
+40,Streamline Digital Partners,Long Cai,long.cai@streamlinedigitalp.com,+86 685 845 1091,Datong County,China,5,1,2022-09-12T02:12:09.794Z
